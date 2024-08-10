@@ -1,5 +1,5 @@
 Hola mundo
-<<<<<<< HEAD
+
 Mi nombre es Jose Luis 
 
 Hola desde rama 1
